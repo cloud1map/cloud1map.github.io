@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>QTrade量化机器人</title>
-    <link>https://cloud1map.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on QTrade量化机器人</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 28 May 2024 17:33:18 +0800</lastBuildDate>
-    <atom:link href="https://cloud1map.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>QTrade_0.0.1.2</title>
-      <link>https://cloud1map.github.io/posts/qtrade_0.0.1.2/</link>
+      <link>http://localhost:1313/posts/qtrade_0.0.1.2/</link>
       <pubDate>Tue, 28 May 2024 17:33:18 +0800</pubDate>
-      <guid>https://cloud1map.github.io/posts/qtrade_0.0.1.2/</guid>
+      <guid>http://localhost:1313/posts/qtrade_0.0.1.2/</guid>
       <description>Qtrade 版本0.0.1.2 发布了 </description>
     </item>
   </channel>
