@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on XQTrade量化机器人</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>https://cloud1map.github.io/posts/</link>
     <description>Recent content in Posts on XQTrade量化机器人</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 24 Oct 2024 14:15:15 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://cloud1map.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Support</title>
-      <link>http://localhost:1313/posts/support/</link>
+      <link>https://cloud1map.github.io/posts/support/</link>
       <pubDate>Thu, 24 Oct 2024 14:15:15 +0800</pubDate>
-      <guid>http://localhost:1313/posts/support/</guid>
+      <guid>https://cloud1map.github.io/posts/support/</guid>
       <description>如果您在使用过程中有任何问题，您可以留言或者发邮件给我，我会在第一时间给您答疑 If you encounter any issues during your usage, feel free to leave a message or send an email to me. I will get back to you as soon as possible.&#xA;邮箱：traderxiaoq@gmail.com&#xA;Email: traderxiaoq@gmail.com&#xA;谢谢 Thank you!</description>
     </item>
     <item>
       <title>QTrade_0.0.1.2</title>
-      <link>http://localhost:1313/posts/qtrade_0.0.1.2/</link>
+      <link>https://cloud1map.github.io/posts/qtrade_0.0.1.2/</link>
       <pubDate>Tue, 28 May 2024 17:33:18 +0800</pubDate>
-      <guid>http://localhost:1313/posts/qtrade_0.0.1.2/</guid>
+      <guid>https://cloud1map.github.io/posts/qtrade_0.0.1.2/</guid>
       <description>Qtrade 版本0.0.1.2 发布了 </description>
     </item>
   </channel>
