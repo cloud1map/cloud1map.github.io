@@ -3,16 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/posts/</loc>
-    <lastmod>2024-11-05T16:31:25+08:00</lastmod>
+    <lastmod>2025-01-10T13:36:28+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/xqtrade_v0.1.12/</loc>
+    <lastmod>2025-01-10T13:36:28+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-01-10T13:36:28+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/privacypolicy/</loc>
     <lastmod>2024-11-05T16:31:25+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-11-05T16:31:25+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/posts/xqtrade_%E7%89%88%E6%9C%AC0.1.7/</loc>
-    <lastmod>2024-11-05T14:15:15+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/support/</loc>
     <lastmod>2024-10-24T14:15:15+08:00</lastmod>
