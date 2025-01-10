@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>XQTrade量化机器人</title>
-    <link>https://web.qtrade.top/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on XQTrade量化机器人</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Nov 2024 16:31:25 +0800</lastBuildDate>
-    <atom:link href="https://web.qtrade.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 10 Jan 2025 13:36:28 +0800</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Xqtrade_v0.1.12</title>
+      <link>http://localhost:1313/posts/xqtrade_v0.1.12/</link>
+      <pubDate>Fri, 10 Jan 2025 13:36:28 +0800</pubDate>
+      <guid>http://localhost:1313/posts/xqtrade_v0.1.12/</guid>
+      <description>更新内容: 更新api管理界面，优化用户体验&#xA;安卓版下载地址: 链接：https://pan.baidu.com/s/1tsyy-TfOYx0O6vgj6Oo34Q 提取码：82eq</description>
+    </item>
     <item>
       <title>PrivacyPolicy</title>
-      <link>https://web.qtrade.top/posts/privacypolicy/</link>
+      <link>http://localhost:1313/posts/privacypolicy/</link>
       <pubDate>Tue, 05 Nov 2024 16:31:25 +0800</pubDate>
-      <guid>https://web.qtrade.top/posts/privacypolicy/</guid>
+      <guid>http://localhost:1313/posts/privacypolicy/</guid>
       <description>欢迎使用由Trader小Q提供的交易机器人软件XQTrade。本服务条款是您与XQTrade之间的协议。在您注册成为XQTrade的用户之前，请仔细阅读以下全部内容。 如您使用XQTrade软件，即表示您自愿接受本服务条款的全部内容。如果您不接受本服务条款，请不要安装、使用、注册或以其他方式使用我们的产品。&#xA;1. 用户协议：&#xA;（1）用户按照页面提示完成全部注册步骤后，即成为XQTrade的用户。用户应自行保管账号及密码，并准确、安全地使用其账号及密码。XQTrade可通过用户自行设定，向用户提供个性化信息服务。&#xA;（2）信息服务，用户须为自己注册账号下的行为负责，包括用户所导入、上传、传送的任何内容以及由此产生的任何后果。 用户应对XQTrade中的内容自行加以判断，并承担因使用内容而引起的所有风险。XQTrade不对因用户行为而导致的损失承担责任。&#xA;（3）用户须对在XQTrade上传送信息的真实性、合法性、有效性等负责，与用户所传播的信息相关的任何法律责任由用户自行承担，与XQTrade无关。 用户在XQTrade中记录的或通过XQTrade服务所传送的任何内容并不反映XQTrade的观点或政策，XQTrade对此不承担责任。&#xA;（4）用户提供的个人信息或发布的信息不真实、不准确、不合法；发表内容不符合本协议或不符合法律法规的，XQTrade有权暂停或终止用户使用本平台的服务。 用户如果对XQTrade的暂停或者终止或收回其账号行为有异议，可向平台提出意见，要求继续提供服务。 XQTrade收到此类投诉与意见，会审核相关信息，并及时给予反馈。若信息确实不真实、不准确或不合法有效，XQTrade平台将要求用户提供符合要求的信息。&#xA;（5）用户不得利用XQTrade服务制作、上传、复制、发布、传播或转载如下内容：&#xA;反对宪法所确定的基本原则的； 危害国家安全，泄露国家秘密，颠覆国家政权，破坏国家统一的； 损害国家荣誉和利益的； 煽动民族仇恨、民族歧视，破坏民族团结的； 破坏国家宗教政策，宣扬邪教和封建迷信的； 散布谣言，扰乱社会秩序，破坏社会稳定的； 散布淫秽、色情、赌博、暴力、凶杀、恐怖或教唆犯罪的； 侮辱或诽谤他人，侵害他人合法权益的； 法律、行政法规禁止的其他内容。 （6）XQTrade有权针对用户发表的内容进行审核。若用户实施违反本条所述使用规则及法律法规的行为，XQTrade平台有权视行为严重程度， 根据《中华人民共和国侵权责任法》《信息网络传播权保护条例》等法律法规，要求用户立即采取纠正、改正、恢复原状、消除影响等措施， 且XQTrade有权自行采取合法有效且必要的措施（包括但不限于更改或删除相关侵权信息、暂停或终止用户使用本服务等），同时XQTrade保留进一步追究用户法律责任的权利。&#xA;此外，论坛社区版块的发起者、管理者应当履行与本协议及法律法规相适应的义务。对于违反法律规定和协议约定、履行责任义务不到位的服务提供者， XQTrade应当依法依约限制（更改或删除相关侵权信息、暂停使用）或取消其管理权限，直至封禁或者关闭有关账号、版块。&#xA;2. 隐私政策：&#xA;（1）XQTrade尊重并保护所有使用服务用户的个人隐私权，高度重视用户的隐私及个人信息的保护。 我们将依据《中华人民共和国网络安全法》《信息安全技术个人信息安全规范》以及其他相关法律法规和业界成熟的安全标准，收集和使用您的个人信息。 除本隐私政策另有规定外，在未征得您事先许可的情况下，XQTrade不会将这些信息对外披露或向第三方提供。&#xA;（2）从第三方间接获取您的个人信息：您使用第三方账号登录XQTrade时，已授权XQTrade获得您的登记、公开的信息。 您在该第三方平台上登记、公开、记录的公开信息（包括昵称、头像）。&#xA;（3）其他用途：当我们要将信息用于本隐私政策未载明的其他用途时，将会事先征求您的同意。&#xA;（4）按照法律法规要求，下列情况我们将无法满足您的上述请求：&#xA;与国家安全、国防安全直接相关的； 与公共安全、公共卫生、重大公共利益直接相关的； 与犯罪侦查、起诉、审判和判决执行等直接相关的； 有充分证据表明您存在主观恶意或滥用权利的； 响应您的请求将导致您或其他个人、组织的合法权益受到严重损害的； 涉及商业秘密的。&#xA;API Key 信息的收集和使用： 收集目的 XQTrade 会收集用户提供的交易所 API Key 信息，以便对接用户授权的交易所账户，帮助用户自动执行交易策略。API Key 仅用于提供用户所需的交易服务，不会用于其他目的。 信息的存储和安全措施 我们高度重视 API Key 的安全性，所有 API Key 都会使用加密技术存储，以确保数据的安全性。XQTrade 在应用内部对 API Key 进行加密和权限管理，未经用户许可不会泄露、分享或传播 API Key 信息。 用户控制和删除 用户可以随时更新或删除 API Key 信息。删除或更新 API Key 后，我们将立即移除对应的数据记录。用户可以在应用的设置中找到删除 API Key 的选项，删除操作将即时生效。</description>
     </item>
     <item>
-      <title>XQTrade_版本0.1.7</title>
-      <link>https://web.qtrade.top/posts/xqtrade_%E7%89%88%E6%9C%AC0.1.7/</link>
-      <pubDate>Tue, 05 Nov 2024 14:15:15 +0800</pubDate>
-      <guid>https://web.qtrade.top/posts/xqtrade_%E7%89%88%E6%9C%AC0.1.7/</guid>
-      <description>更新内容: 优化用户体验&#xA;安卓版下载地址: 链接：https://pan.baidu.com/s/1hciNjyZ3f5m0ez3DuA_r8Q 提取码：5n0e</description>
-    </item>
-    <item>
       <title>Support</title>
-      <link>https://web.qtrade.top/posts/support/</link>
+      <link>http://localhost:1313/posts/support/</link>
       <pubDate>Thu, 24 Oct 2024 14:15:15 +0800</pubDate>
-      <guid>https://web.qtrade.top/posts/support/</guid>
+      <guid>http://localhost:1313/posts/support/</guid>
       <description>如果您在使用过程中有任何问题，您可以留言或者发邮件给我，我会在第一时间给您答疑 If you encounter any issues during your usage, feel free to leave a message or send an email to me. I will get back to you as soon as possible.&#xA;邮箱：traderxiaoq@gmail.com&#xA;Email: traderxiaoq@gmail.com&#xA;谢谢 Thank you!</description>
     </item>
   </channel>
